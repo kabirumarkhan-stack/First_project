@@ -1,4 +1,4 @@
 # First_project
-Test/Trial for Git repository
+<h2>Test/Trial for Git repository</h2>
 <br>
-Author-Kabir Khan
+<u><b>Author-Kabir Khan</b></u>
